@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
